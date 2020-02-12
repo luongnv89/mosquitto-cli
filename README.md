@@ -17,3 +17,5 @@ Publish a message
 ```
 mosquitto_pub -h 192.168.0.12 -t 'test' -m 'Hello world!'
 ```
+## License
+MIT
